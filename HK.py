@@ -19,3 +19,6 @@ for combination in product(*lists):
 
 # Print the maximum result
 print(max_result)
+
+print("Hello World")
+print("The answer for this code is...")
