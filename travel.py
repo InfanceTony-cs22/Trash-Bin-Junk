@@ -42,3 +42,26 @@ else:
     sys.exit(1)
 
 print(f"Result: {result}")
+#--_---------_-__--__-_-_-_-_
+
+
+def main():
+    try:
+        num_list = list(map(float, input("Enter a list of numbers separated by spaces: ").split()))
+        if not num_list:
+            print("List is empty. Please enter numbers.")
+            return
+
+        average = sum(num_list) / len(num_list)
+        above_average = [num for num in num_list if num > average]
+        below_average = [num for num in num_list if num < average]
+
+        print(f"Average: {average:.2f}")
+        print(f"Numbers above average: {above_average}")
+        print(f"Numbers below average: {below_average}")
+    except ValueError:
+        print("Invalid input. Please enter valid numbers.")
+
+if __name__ == "__main__":
+    main()
+
