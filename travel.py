@@ -654,3 +654,6 @@ def main():
 
         print(f"Average: {average:.2f}")
         print(f"Numbers above average: {above_average
+
+
+ghzjsnnsb
