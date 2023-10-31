@@ -19,6 +19,51 @@ print(f"Result: {result}")
 
 def main():
     try:
+    print("Invalid operation. Available operations: add, subtract, multiply, divide")
+    sys.exit(1)
+
+print(f"Result: {result}")
+#--_---------_-__--__-_-_-_-_
+
+
+def main():
+    try:
+    print("Invalid operation. Available operations: add, subtract, multiply, divide")
+    sys.exit(1)
+
+print(f"Result: {result}")
+#--_---------_-__--__-_-_-_-_
+
+
+def main():
+    try:
+    print("Invalid operation. Available operations: add, subtract, multiply, divide")
+    sys.exit(1)
+
+print(f"Result: {result}")
+#--_---------_-__--__-_-_-_-_
+
+
+def main():
+    try:
+    print("Invalid operation. Available operations: add, subtract, multiply, divide")
+    sys.exit(1)
+
+print(f"Result: {result}")
+#--_---------_-__--__-_-_-_-_
+
+
+def main():
+    try:
+    print("Invalid operation. Available operations: add, subtract, multiply, divide")
+    sys.exit(1)
+
+print(f"Result: {result}")
+#--_---------_-__--__-_-_-_-_
+
+
+def main():
+    try:
         num_list = list(map(float, input("Enter a list of numbers separated by spaces: ").split()))
         if not num_list:
             print("List is empty. Please enter numbers.")
