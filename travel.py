@@ -1632,7 +1632,13 @@ else:
     sys.exit(1)
 
 print(f"Result: {result}")
-#--_---------_-__--__-_-_-_-_
+    print("Invalid operation. Available oper
+if operation == 'add':
+    result = add(operand1, operand2)
+elif operation == 'subtract':
+    result = subtract(operand1, operand2)
+elif operation == 'multiply':
+    result = multiply(operand1, operand2)#--_---------_-__--__-_-_-_-_
 
 
 def main():
