@@ -2,6 +2,10 @@ https://learn.microsoft.com/en-us/collections/kkqrhmxoqn54?WT.mc_id=cloudskillsc
 
 
 
+https://learn.microsoft.com/en-us/training/modules/explore-power-bi/8-knowledge-check
+
+
+
 
 
 
