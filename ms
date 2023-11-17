@@ -10,7 +10,7 @@ https://learn.microsoft.com/en-us/training/modules/explore-power-bi/8-knowledge-
 
 
 
-
+https://rebrand.ly/Join-ENG
 
 
 
