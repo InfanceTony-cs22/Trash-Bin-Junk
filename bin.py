@@ -24,6 +24,8 @@ elif operation == 'subtract':
     result = subtract(operand1, operand2)
 elif operation == 'multiply':
     result = multiply(operand1, operand2)
+    print("Invalid operation. Available operations: add, subtract, multiply, divide")
+
 elif operation == 'divide':
     result = divide(operand1, operand2)
 else:
