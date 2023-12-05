@@ -46,4 +46,13 @@ elif operation == 'divide':
 else:
     print("Invalid operation. Available operations: add, subtract, multiply, divide")
     sys.exit(1)
+    result = add(operand1, operand2)
+elif operation == 'subtract':
+    result = subtract(operand1, operand2)
+elif operation == 'multiply':
+    result = multiply(operand1, operand2)
+elif operation == 'divide':
+    result = divide(operand1, operand2)
+else:
+    print("Invalid operation. Available operations: add, subtract, multiply, divide")
 
