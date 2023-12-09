@@ -25,3 +25,9 @@ https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-j
 
 google dev student
 https://gdsc.community.dev/university-of-the-philippines-manila/
+
+
+
+
+
+https://getintopc.com/softwares/graphic-design/adobe-photoshop-2023-free-download-1758627/?id=001838906830
