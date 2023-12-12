@@ -1,4 +1,13 @@
 operand1 = float(sys.argv[2])
+
+
+
+
+if operation == 'add':
+    if operation == 'add':
+    result = add(operand1, operand2)
+elif operation == 'subtract':
+    result = subtract(operand1, operand2)
 operand2 = float(sys.argv[3])
 
     result = add(operand1, operand2)
