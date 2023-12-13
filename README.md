@@ -1,2 +1,2 @@
 # Trash-Bin-Junk
-Jst reinder thong are here 
+Just reinder thing's are here 
