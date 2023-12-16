@@ -1,4 +1,14 @@
+elif operation == 'multiply':
+    result = multiply(operand1, operand2)
+elif operation == 'divide':
+if operation == 'add':
+    if operation == 'add':
+    result = add(operand1, operand2)
 
+elif operation == 'subtract':
+
+elif operation == 'multiply':
+    result = multiply(operand1, operand2)
 
     result = subtract(operand1, operand2)
 elif operation == 'multiply':
