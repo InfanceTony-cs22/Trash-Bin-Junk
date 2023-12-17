@@ -1,3 +1,10 @@
+https://amzn.eu/d/cFr21dD
+
+
+
+
+
+
 operand1 = float(sys.argv[2])
 operand2 = float(sys.argv[3])
 
