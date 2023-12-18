@@ -10,7 +10,23 @@ if operation == 'add':
 elif operation == 'divide':
 if operation == 'add':
     if operation == 'add':
+    result = add(operand1, operand2)    result = multiply(operand1, operand2)
+elif operation == 'divide':
+ltiply':
+    result = multiply(operand1, operand2)
+elif operation == 'divide':
+if operation == 'add':
+    if operation == 'add':elif operation == 'multiply':
+    result = multiply(operand1, operand2)
+elif operation == 'divide':
+if operation == 'add':
+    if operation == 'add':
     result = add(operand1, operand2)
+
+elif operation == 'subtract':
+if operation == 'add':
+    if operation == 'add':elif operation == 'multiply':
+    result = multiply(operand1, operand2)
 
 elif operation == 'subtract':
 if operation == 'add':
